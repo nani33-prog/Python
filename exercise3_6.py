@@ -4,7 +4,7 @@ if c.isalpha():
     if c_lower in {'a','e','i','o','u'}:
         print(c,"is vowel")
     else:
-        print(c,"is contant")
+        print(c,"is consonant")
 
 elif c.isdigit():
     print(c,"is a digit")
