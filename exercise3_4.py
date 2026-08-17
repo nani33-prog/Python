@@ -5,11 +5,13 @@ print("a =",a,"b =",b,"c =",c)
 if a>b:
     if a>c:
         print("a is largest")
-    elif c>a:
+    else:
         print("c is largest")
 else:
     if b>c:
         print("b is largest")
+    else:
+        print("c is largest")
 
 #OUTPUT
 #Enter a : 4
