@@ -22,10 +22,18 @@ for emp_id, info in employees.items():
     print(f"  Salary: ${info['salary']:,}")
     print("-" * 25)
 
-
-
-
-
-
-
-    
+#OUTPUT
+"""
+ID: emp101
+  Name: Sarah Connor
+  Department: Engineering
+  Salary: $95,000
+ID: emp102
+  Name: Marcus Vance
+  Department: Marketing
+  Salary: $72,000
+ID: emp103
+  Name: Elena Rostova
+  Department: Finance
+  Salary: $88,000
+  """
