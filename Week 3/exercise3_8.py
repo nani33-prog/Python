@@ -1,0 +1,13 @@
+n = int(input("Enter n value : "))
+i=1
+while i<=n:
+    print(i)
+    i = i+1
+
+#OUT[UT
+#Enter n value : 5
+#1
+#2
+#3
+@4
+#5
